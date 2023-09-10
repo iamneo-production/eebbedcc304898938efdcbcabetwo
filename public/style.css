@@ -91,10 +91,19 @@ p {
 
 /* Player turn space */
 #print {
+  box-sizing: border-box;
+  width: 95px;
+  height: 40px;
+  border: 1px solid rgb(39, 39, 39);
+  margin-left: auto;
+  border-radius: 8px;
   font-family: Verdana,
       Geneva, Tahoma, sans-serif;
-  color: rgb(0, 0, 0);
-  font-size: 25px;
+
+  background-color: whitesmoke;
+  color: rgb(7, 7, 7);
+  font-size: 20px;
+  cursor: pointer;
 }
 
 /* Reset Button */
