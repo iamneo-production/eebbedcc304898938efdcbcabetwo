@@ -12,6 +12,7 @@ body {
 h1 {
   color: rgb(255, 255, 255);
   margin-bottom: -5px;
+  font-size: 50px;
 }
 p {
   margin-bottom: -10px;
@@ -86,6 +87,16 @@ p {
   border-top: 1px solid gray;
   border-left: 1px solid gray;
 }
+
+
+/* Player turn space */
+#print {
+  font-family: Verdana,
+      Geneva, Tahoma, sans-serif;
+  color: rgb(0, 0, 0);
+  font-size: 25px;
+}
+
 /* Reset Button */
 #but {
   box-sizing: border-box;
@@ -101,14 +112,6 @@ p {
   color: dodgerblue;
   font-size: 20px;
   cursor: pointer;
-}
-
-/* Player turn space */
-#print {
-  font-family: Verdana,
-      Geneva, Tahoma, sans-serif;
-  color: rgb(0, 0, 0);
-  font-size: 20px;
 }
 
 /* Main Container */
