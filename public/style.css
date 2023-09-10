@@ -107,7 +107,7 @@ p {
 #print {
   font-family: Verdana,
       Geneva, Tahoma, sans-serif;
-  color: dodgerblue;
+  color: rgb(0, 0, 0);
   font-size: 20px;
 }
 
@@ -120,5 +120,5 @@ p {
 #ins {
   font-family: Verdana,Geneva, 
                   Tahoma, sans-serif;
-  color: dodgerblue;
+  color: rgb(0, 0, 0);
 }
