@@ -13,9 +13,7 @@ body {
     color: orangered;
     margin-bottom: -5px;
 }
-p {
-    margin-bottom: -10px;
-}
+
 .ui {
     display: flex;
     flex-direction: column;
