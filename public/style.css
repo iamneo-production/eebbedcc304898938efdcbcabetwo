@@ -12,8 +12,10 @@ body {
   h1 {
     color: orangered;
     margin-bottom: -5px;
+  }
+p {
+  margin-bottom: -10px;
 }
-
 .ui {
     display: flex;
     flex-direction: column;
@@ -110,9 +112,9 @@ body {
 }
   
 /* Main Container */
-#main {
+  #main {
     text-align:center;
-}
+  }
   
 /* Game Instruction Text */
 #ins {
