@@ -10,7 +10,7 @@ body {
   
 /* Enter your styling here */
 h1 {
-  color: orangered;
+  color: rgb(255, 255, 255);
   margin-bottom: -5px;
 }
 p {
@@ -26,12 +26,12 @@ p {
 }
 .cell {
   border: none;
-  width: 80px;
-  height: 80px;
+  width: 75px;
+  height: 75px;
   display: flex;
   align-items: center;
   justify-content: center;
-  font-size: 24px;
+  font-size: 50px;
   text-align: center;
   cursor: pointer;
 }  
